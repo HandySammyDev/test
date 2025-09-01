@@ -1,2 +1,2 @@
 # test
-1302 assignment, Introduction to GitHub
+1302, Introduction to GitHub
